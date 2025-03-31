@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LMS Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Learning Management System</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="courses.html">Courses</a>
+            <a href="dashboard.html">Dashboard</a>
+            <a href="admin.html">Admin</a>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="hero">
+            <h2>Welcome to Our LMS Platform</h2>
+            <p>Learn, grow, and achieve your goals with our online courses</p>
+            <a href="courses.html" class="btn">Browse Courses</a>
+        </section>
+        
+        <section class="features">
+            <div class="feature">
+                <h3>100+ Courses</h3>
+                <p>Wide variety of subjects</p>
+            </div>
+            <div class="feature">
+                <h3>Expert Instructors</h3>
+                <p>Learn from industry leaders</p>
+            </div>
+            <div class="feature">
+                <h3>Flexible Learning</h3>
+                <p>Study at your own pace</p>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 LMS Platform</p>
+    </footer>
+    
+    <script src="js/script.js"></script>
+</body>
+</html>
